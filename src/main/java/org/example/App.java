@@ -17,7 +17,7 @@ public class App {
 
     public static void main(String[] args) {
         try {
-            String path = args[0];///Users/apollonskill/Documents/A
+            String path = args[0];
             List<String> processableFileTypes = new ArrayList<>();
             processableFileTypes.add(".java");
             CodeLinesCounterService codeLinesCounterService = new CodeLinesCounterServiceImpl();
