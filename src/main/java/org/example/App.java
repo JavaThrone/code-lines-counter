@@ -10,7 +10,7 @@ import org.example.service.CodeLinesCounterServiceImpl;
 /**
  * The code was written for test purposes by human
  * My solution is oriented on high performance and memory saving
- * You need to input an apsolute folder or file path in the console
+ * You need to input an absolute folder or file path in the console
  * Good luck and have fun
  */
 public class App {
